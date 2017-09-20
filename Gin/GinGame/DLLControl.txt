@@ -1,0 +1,8 @@
+Player1
+..\GinDLL\debug\GinDLL.dll
+Player2
+..\GinDLL\debug\GinDLL.dll
+Player3
+..\GinDLL\debug\GinDLL.dll
+Player4
+..\GinDLL\debug\GinDLL.dll

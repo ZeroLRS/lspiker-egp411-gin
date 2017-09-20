@@ -1,0 +1,9 @@
+screen_size 1024 768
+dll_filename DLLControl.txt
+target_frame_time 16.7
+fire_event_pause 1
+game_reset_pause 1000
+knock_threshold 10
+cards_per_player 10
+num_players 4
+num_games 12

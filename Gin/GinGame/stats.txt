@@ -1,0 +1,13 @@
+Number of Games Simulated = 0
+Number of Games Won Player 0 = 0
+Number of Games Lost Player 0 = 0
+Total score Player 0 = 0
+Number of Games Won Player 1 = 0
+Number of Games Lost Player 1 = 0
+Total score Player 1 = 0
+Number of Games Won Player 2 = 0
+Number of Games Lost Player 2 = 0
+Total score Player 2 = 0
+Number of Games Won Player 3 = 0
+Number of Games Lost Player 3 = 0
+Total score Player 3 = 0
