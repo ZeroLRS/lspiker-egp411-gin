@@ -163,6 +163,10 @@ void Game::doLoop()
 
 	while(mKeepRunning)
 	{
+		// Poll a dummy event to allow us to move the window.
+		SDL_Event dummyEvent;
+		while (SDL_PollEvent(&dummyEvent)) {}
+
 		loopTimer.start();
 	
 		TransactionHandler::getHandler()->processAllTransactions();
